@@ -35,8 +35,8 @@
                 "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/325e82cc-8400-4afd-a622-5964981880de.png"
             },
             {
-                "id":"9",
-                "url":"https://dm4fv4ltmsvz0.cloudfront.net/288/6db574b1-5233-4caa-ad7e-b0106d0bc4dc.png"
+                "id": "9",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/6db574b1-5233-4caa-ad7e-b0106d0bc4dc.png"
             }
         ],
         "slides": [
@@ -55,6 +55,10 @@
         ],
         "Category": {
             "GroundCofffe": [
+                {
+                    "el": "GROUNS COFFEE",
+                    "vi": "Cà Phê Bột"
+                },
                 {
                     "id": "1",
                     "title": "Cà phê bột Robusta (Robusta Ground Coffee)",
@@ -118,6 +122,10 @@
             ],
             "RoastedCoffeeBeans": [
                 {
+                    "el": "ROASTED COFFEE BEANS",
+                    "vi": "Cà Phê Hạt"
+                },
+                {
                     "id": "11",
                     "title": "Cà phê túi hạt MERO (MERO roasted coffee beans)",
                     "price": "93000",
@@ -180,6 +188,10 @@
             ],
             "InstantCoffee": [
                 {
+                    "el": "INSTANT COFFE",
+                    "vi": "Cà Phê Hòa Tan"
+                },
+                {
                     "id": "21",
                     "title": "Cà phê sữa hòa tan 3in1 - túi 50 gói (White instant coffee 3in1)",
                     "price": "110000",
@@ -223,6 +235,10 @@
                 }
             ],
             " VacuumGroundCoffee": [
+                {
+                    "el": "VACUUM GROUND COFFEE",
+                    "vi": "Cà Phê Hút Chân Không"
+                },
                 {
                     "id": "28",
                     "title": "Cà phê bột hút chân không MC1 (MC1 vacuum ground coffee)",
@@ -273,6 +289,10 @@
                 }
             ],
             "Tea": [
+                {
+                    "el": "TEA",
+                    "vi": "Trà"
+                },
                 {
                     "id": "36",
                     "title": "24000",
