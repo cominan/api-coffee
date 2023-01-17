@@ -55,7 +55,6 @@
         ],
         "Category": {
             "GroundCofffe": [
-                
                 {
                     "id": "1",
                     "title": "Cà phê bột Robusta (Robusta Ground Coffee)",
@@ -223,7 +222,7 @@
                     "url": "https://d3a0f2zusjbf7r.cloudfront.net/390/13950a66-f0ce-477d-aac1-5d42ee0192ad.jpg"
                 }
             ],
-            " VacuumGroundCoffee": [
+            "VacuumGroundCoffee": [
                 {
                     "id": "28",
                     "title": "Cà phê bột hút chân không MC1 (MC1 vacuum ground coffee)",
