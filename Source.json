@@ -1,6 +1,66 @@
 {
     "Course": {
-        "logo":"https://d8qbqtt58lzda.cloudfront.net/200/e607d81c-afd9-4d63-9502-259aba5f3b22.png",
+        "logo": "https://d8qbqtt58lzda.cloudfront.net/200/e607d81c-afd9-4d63-9502-259aba5f3b22.png",
+        "icon": [
+            {
+                "id": "1",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/7831f767-84e5-4537-b535-562ded6b029a.png"
+            },
+            {
+                "id": "2",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/31391b57-f2e2-4706-858e-23bf2052cec3.png"
+            },
+            {
+                "id": "3",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/1887f0bd-5d93-49d9-8ee1-d3e3785e8134.png"
+            },
+            {
+                "id": "4",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/20bb4aa2-d6b9-471e-a63d-89dddc59ffd9.png"
+            },
+            {
+                "id": "5",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/f79ea710-1bc3-4898-8b1e-cc4b06c417b3.png"
+            },
+            {
+                "id": "6",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/f3c67a1d-a44c-4433-9612-d0249071a081.png"
+            },
+            {
+                "id": "7",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/8c3b99b0-4805-467f-90ac-84df426466fb.png"
+            },
+            {
+                "id": "8",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/288/325e82cc-8400-4afd-a622-5964981880de.png"
+            },
+            {
+                "id":"9",
+                "url":"https://dm4fv4ltmsvz0.cloudfront.net/288/6db574b1-5233-4caa-ad7e-b0106d0bc4dc.png"
+            }
+        ],
+        "slides": [
+            {
+                "id": "1",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/cf94a2a4-2994-4872-9025-36cd9fc5ff6e.png"
+            },
+            {
+                "id": "2",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/1500/cf94a2a4-2994-4872-9025-36cd9fc5ff6e.png"
+            },
+            {
+                "id": "3",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/1200/cf94a2a4-2994-4872-9025-36cd9fc5ff6e.png"
+            },
+            {
+                "id": "4",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/992/cf94a2a4-2994-4872-9025-36cd9fc5ff6e.png"
+            },
+            {
+                "id": "5",
+                "url": "https://dm4fv4ltmsvz0.cloudfront.net/768/cf94a2a4-2994-4872-9025-36cd9fc5ff6e.png"
+            }
+        ],
         "Category": {
             "GroundCofffe": [
                 {
