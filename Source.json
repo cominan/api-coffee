@@ -55,10 +55,7 @@
         ],
         "Category": {
             "GroundCofffe": [
-                {
-                    "el": "GROUNS COFFEE",
-                    "vi": "Cà Phê Bột"
-                },
+                
                 {
                     "id": "1",
                     "title": "Cà phê bột Robusta (Robusta Ground Coffee)",
@@ -122,10 +119,6 @@
             ],
             "RoastedCoffeeBeans": [
                 {
-                    "el": "ROASTED COFFEE BEANS",
-                    "vi": "Cà Phê Hạt"
-                },
-                {
                     "id": "11",
                     "title": "Cà phê túi hạt MERO (MERO roasted coffee beans)",
                     "price": "93000",
@@ -188,10 +181,6 @@
             ],
             "InstantCoffee": [
                 {
-                    "el": "INSTANT COFFE",
-                    "vi": "Cà Phê Hòa Tan"
-                },
-                {
                     "id": "21",
                     "title": "Cà phê sữa hòa tan 3in1 - túi 50 gói (White instant coffee 3in1)",
                     "price": "110000",
@@ -235,10 +224,6 @@
                 }
             ],
             " VacuumGroundCoffee": [
-                {
-                    "el": "VACUUM GROUND COFFEE",
-                    "vi": "Cà Phê Hút Chân Không"
-                },
                 {
                     "id": "28",
                     "title": "Cà phê bột hút chân không MC1 (MC1 vacuum ground coffee)",
@@ -289,10 +274,6 @@
                 }
             ],
             "Tea": [
-                {
-                    "el": "TEA",
-                    "vi": "Trà"
-                },
                 {
                     "id": "36",
                     "title": "24000",
