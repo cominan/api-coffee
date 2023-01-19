@@ -55,10 +55,7 @@
         ],
         "Category": {
             "GroundCofffe": [
-                {
-                    "path": "/product/ground-coffee",
-                    "name": "Ground Coffee"
-                },
+             
                 {
                     "id": "1",
                     "title": "Cà phê bột Robusta (Robusta Ground Coffee)",
@@ -121,10 +118,7 @@
                 }
             ],
             "RoastedCoffeeBeans": [
-                {
-                    "path": "/product/roasted-coffe-bean",
-                    "name": "Roasted Coffee Beans"
-                },
+               
                 {
                     "id": "11",
                     "title": "Cà phê túi hạt MERO (MERO roasted coffee beans)",
@@ -187,10 +181,7 @@
                 }
             ],
             "InstantCoffee": [
-                {
-                    "path": "/product/instant-coffee",
-                    "name": "Instant Coffee"
-                },
+             
                 {
                     "id": "21",
                     "title": "Cà phê sữa hòa tan 3in1 - túi 50 gói (White instant coffee 3in1)",
@@ -235,10 +226,7 @@
                 }
             ],
             "VacuumGroundCoffee": [
-                {
-                    "path": "/product/vacuum-ground-coffee",
-                    "name": "Vacuum Ground Coffee"
-                },
+              
                 {
                     "id": "28",
                     "title": "Cà phê bột hút chân không MC1 (MC1 vacuum ground coffee)",
@@ -289,10 +277,7 @@
                 }
             ],
             "Tea": [
-                {
-                    "path": "/product/tea",
-                    "name": "Tea"
-                },
+              
                 {
                     "id": "36",
                     "price": "24000",
@@ -325,10 +310,7 @@
                 }
             ],
             "Premium": [
-                {
-                    "path": "/product/premium",
-                    "name": "Premium"
-                },
+                
                 {
                     "id": "41",
                     "title": "Cà phê Chồn cao cấp (Weasel premium vacuum ground coffee)",
